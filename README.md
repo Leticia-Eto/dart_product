@@ -28,3 +28,9 @@ Nome: Camiseta | Estoque: 30 | Preco: 49.9
 Venda realizada! Novo estoque: 27
 Nome: Camiseta | Estoque: 37 | Preco: 49.9 
 ```
+<h2 id=author>:grin: Autor</h2>
+
+Developed by <a href="www.linkedin.com/in/leticia-eto-filo-candido-a05068304" target="_blank">Leticia Eto</a>
+
+<h2 id=licence>:lock: License 📄</h2>
+<a href="https://github.com/Leticia-Eto/GreetingApp/blob/main/LICENSE" target="_blank">MIT</a>
